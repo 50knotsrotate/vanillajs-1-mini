@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
+u<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Project Summary
 
@@ -7,6 +7,7 @@ In this project, we'll introduce you to vanilla JS DOM manipulation by creating 
 ## Example
 
 ### Setup
+
 Fork and clone this repository and open the folder in your code editor.
 
 ### Step 1
@@ -141,7 +142,7 @@ In this step, we will update our HTML to run our Javascript functions when the b
     </header>
     <main>
       <h1 id="counter">0</h1>
-      <h2>Clicks</h2>
+      <h2 id="clicks"></h2>
       <section>
         <button onclick="decrease()">-</button>
         <button onclick="reset()">Reset</button>
